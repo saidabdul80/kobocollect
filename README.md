@@ -1,6 +1,6 @@
 This is source code for the map of Niger State using HTML, CSS and Javascripti
 
-Check the Demo here: https://saidabdul80.github.io/INISTMap/demo.html
+Check the Demo here: https://saidabdul80.github.io/INISTMap/index.html
 
 Other use cases of the Map: 
 1- COVID-19 Visual Map https://covid19project.org.ng/nigermap/
