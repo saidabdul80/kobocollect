@@ -348,19 +348,467 @@ function ngaddEvent(id, relationId) {
 }
 
 var pins_config = {
-    "pins": [ {
+      "pins": [ {
         "shape": "circle",
-        "hover": "<b><u>MINNA</u></b><br>Write any text and load images<br><img src='assets/images/example.png'>",
-        "pos_X": 1120,
-        "pos_Y": 1978,
-        "size": 308,
+        "hover": "<b>Government Day Secondary School Kwamba</b>",
+        "pos_X": 770.24,
+        "pos_Y": 440.886,
+        "size": 10,
         "outline": "#000080",
-        "upColor": "#ea1aff",
+        "upColor": "#1a1aff",
         "overColor": "#66d9ff",
         "url": "#",
         "target": "new_window",
         "active": !0
-    }]
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Suleiman Barau Technical College Kwamba </b>",
+        "pos_X": 760.24,
+        "pos_Y": 440.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Govt Day Secondary School   fieldbase Kwamba</b>",
+        "pos_X": 750.24,
+        "pos_Y": 440.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+         {
+        "shape": "circle",
+        "hover": "<b>Govt Secondary School maje  Diko</b>",
+        "pos_X": 750.24,
+        "pos_Y": 450.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+         {
+        "shape": "circle",
+        "hover": "<b>Government Day Secondary School Madalla </b>",
+        "pos_X": 750.24,
+        "pos_Y": 460.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        }
+        ,
+         {
+        "shape": "circle",
+        "hover": "<b>Government Day Secondary School Kwankashe   </b>",
+        "pos_X": 760.24,
+        "pos_Y": 450.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+         {
+        "shape": "circle",
+        "hover": "<b>Government Day Secondary School </b>",
+        "pos_X": 760.24,
+        "pos_Y": 460.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        }
+        ,
+         {
+        "shape": "circle",
+        "hover": "<b>Government Science College Kwamba </b>",
+        "pos_X": 770.24,
+        "pos_Y": 460.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        }
+        ,
+         {
+        "shape": "circle",
+        "hover": "<b>Community Secondary School Suleja opposite old army </b>",
+        "pos_X": 770.24,
+        "pos_Y": 470.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+         {
+        "shape": "circle",
+        "hover": "<b>Government Model Science College Kwamba</b>",
+        "pos_X": 780.24,
+        "pos_Y": 450.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        }
+        ,
+         {
+        "shape": "circle",
+        "hover": "<b>Government Girls Day Secondary School  Kwamba</b>",
+        "pos_X": 780.24,
+        "pos_Y": 465.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">Suleja LGA</h2>
+                    <h3 style="margin:0;">Total: 11</h3>
+                    </center>
+                </div>`,
+        "pos_X": 740.24,
+        "pos_Y": 470.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+         {
+        "shape": "circle",
+        "hover": "<b>Government model School</b>",
+        "pos_X": 506.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government Girls Day Secondary School</b>",
+        "pos_X": 486.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government secondary school kuchita  </b>",
+        "pos_X": 506.24,
+        "pos_Y": 452.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Army Day Secondary School</b>",
+        "pos_X": 506.24,
+        "pos_Y": 462.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government Day Secondary School</b>",
+        "pos_X": 526.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government college</b>",
+        "pos_X": 532.24,
+        "pos_Y": 422.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Jama'atu Nasirul Islam college of Arts and Science</b>",
+        "pos_X": 506.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government Girls Day Secondary</b>",
+        "pos_X": 516.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Banma Girls Day Secondary</b>",
+        "pos_X": 485.24,
+        "pos_Y": 412.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Government secondary school</b>",
+        "pos_X": 495.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "circle",
+        "hover": "<b>Women Day College</b>",
+        "pos_X": 475.24,
+        "pos_Y": 432.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">BIDA LGA</h2>
+                    <h3 style="margin:0;">Total: 11</h3>
+                    </center>
+                </div>`,
+        "pos_X": 476.24,
+        "pos_Y": 465.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },        
+        {
+        "shape": "circle",
+        "hover": "<b>Muhammadu jauro Day Secondary School</b>",
+        "pos_X": 566.24,
+        "pos_Y": 495.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">AGAI LGA</h2>
+                    <h3 style="margin:0;">Total: 1</h3>
+                    </center>
+                </div>`,
+        "pos_X": 586.24,
+        "pos_Y": 495.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },        
+        {
+        "shape": "circle",
+        "hover": "<b>Muhammadu kobo Secondary School</b>",
+        "pos_X": 656.24,
+        "pos_Y": 625.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">LAPAI LGA</h2>
+                    <h3 style="margin:0;">Total: 1</h3>
+                    </center>
+                </div>`,
+        "pos_X": 656.24,
+        "pos_Y": 515.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },        
+        {
+        "shape": "circle",
+        "hover": "<b>Government Girls Science College</b>",
+        "pos_X": 400.24,
+        "pos_Y": 400.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">GBAKO LGA</h2>
+                    <h3 style="margin:0;">Total: 1</h3>
+                    </center>
+                </div>`,
+        "pos_X": 420.24,
+        "pos_Y": 415.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },        
+        {
+        "shape": "circle",
+        "hover": "<b>Mallama Habiba Nnabantigi College of Arts and Islamic studies</b>",
+        "pos_X": 435.24,
+        "pos_Y": 470.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },        
+        {
+        "shape": "circle",
+        "hover": "<b>Ndayako Day Secondary</b>",
+        "pos_X": 425.24,
+        "pos_Y": 470.886,
+        "size": 10,
+        "outline": "#000080",
+        "upColor": "#1a1aff",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        },
+        {
+        "shape": "square",
+        "hover": `<div style="width:220px;margin:0px;" >
+                    <center><h2 style="margin:0;">EDATI LGA</h2>
+                    <h3 style="margin:0;">Total: 2</h3>
+                    </center>
+                </div>`,
+        "pos_X": 415.24,
+        "pos_Y": 485.886,
+        "size": 10,
+        "outline": "",
+        "upColor": "red",
+        "overColor": "#66d9ff",
+        "url": "#",
+        "target": "new_window",
+        "active": !0
+        }
+
+
+
+    ]
 };
 
 function isTouchEnabled() {
